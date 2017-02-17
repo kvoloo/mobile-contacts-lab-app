@@ -5,8 +5,6 @@ Simple REST service for contacts management.
 ## Running
 
 1. Deploy into an application server
-
-        ruby bank.rb
   
 2. Access to contacts:
 
